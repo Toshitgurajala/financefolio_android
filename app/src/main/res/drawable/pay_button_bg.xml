@@ -1,0 +1,10 @@
+<!-- pay_button_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="8dp" />
+    <gradient
+        android:angle="135"
+        android:centerColor="#FF5733"
+        android:endColor="#FF7744"
+        android:startColor="#FF5733"
+        android:type="linear" />
+</shape>
